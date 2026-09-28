@@ -1,6 +1,6 @@
 {
   "packageManager": "pnpm@10.22.0",
   "dependencies": {
-    "twikoo-vercel": "^1.6.44"
+    "twikoo-vercel": "^2.0.9"
   }
 }
